@@ -1,0 +1,7 @@
+name,type,site,ip,ports
+nvr-hq-01,nvr,HQ,198.51.100.10,80;554
+cam-hq-lobby,camera,HQ,198.51.100.11,554
+pbx-hq-01,pbx,HQ,198.51.100.20,80;5060
+door-ctrl-hq-01,access-controller,HQ,198.51.100.30,80
+nvr-site2-01,nvr,Site 2,198.51.100.110,80;554
+cam-site2-gate,camera,Site 2,198.51.100.111,554

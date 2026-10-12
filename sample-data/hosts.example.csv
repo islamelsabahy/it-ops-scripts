@@ -1,0 +1,6 @@
+name,ip,role,ports
+core-switch-01,192.0.2.1,network,22;443
+fileserver-01,192.0.2.10,server,445;3389
+erp-app-01,192.0.2.20,server,80;443
+erp-db-01,192.0.2.21,server,5432
+printer-hq-01,192.0.2.50,printer,9100

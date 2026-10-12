@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+reports/
+*.log
+ad-*-log.csv
+.env
+.env.*
+*.key
+*.pem

@@ -1,0 +1,4 @@
+name,path,pattern,max_age_hours,min_size_mb
+erp-database,/backups/erp,*.dump,26,50
+file-server,/backups/files,*.zip,26,200
+nvr-config,/backups/nvr,*.cfg,170,0.01
