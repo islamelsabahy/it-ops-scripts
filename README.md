@@ -1,5 +1,7 @@
 # it-ops-scripts
 
+[![CI](https://github.com/islamelsabahy/it-ops-scripts/actions/workflows/ci.yml/badge.svg)](https://github.com/islamelsabahy/it-ops-scripts/actions/workflows/ci.yml)
+
 **EN** — Small, dependency-free scripts for day-to-day IT operations: network audit, CCTV/PBX health check, backup verification, and Active Directory joiner/leaver automation. Python 3.9+ standard library only. All sample data is fictional (RFC 5737 documentation IP ranges).
 
 **AR** — سكربتات صغيرة وعملية لتشغيل الـ IT اليومي: فحص الشبكة، فحص حالة الكاميرات والسنترال، التأكد من نجاح النسخ الاحتياطي، وأتمتة تعيين وإنهاء خدمة المستخدمين على Active Directory. بايثون بدون أي مكتبات خارجية، وكل بيانات العينة وهمية.
